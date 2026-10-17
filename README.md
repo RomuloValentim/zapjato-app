@@ -4,7 +4,7 @@
 
 Aplicativo móvel para gestão operacional e financeira de lava-jatos, integrado à operação conversacional via WhatsApp.
 
-## Stack Tecnológica
+## Stack Tecnológico
 
 - **Mobile:** React Native, Expo, TypeScript
 - **Estilização:** NativeWind (Tailwind CSS)
